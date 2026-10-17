@@ -6,12 +6,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-
-<!-- "I'm Berkay Öztürk" yazısı (animasyonlu daktilo efekti) -->
-<a href="https://github.com/Berkay3452">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=I%27m+Berkay+%C3%96zt%C3%BCrk" alt="I'm Berkay Öztürk" />
-</a><br>
+<img src="https://github.com/Berkay3452/Berkay3452/blob/main/images/hello-berkay.gif?raw=true" alt="Hello Coders - I'm Berkay Öztürk" width="60%"/> <br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
