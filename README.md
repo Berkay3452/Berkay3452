@@ -6,9 +6,9 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/Berkay3452/Berkay3452/blob/main/images/hello-berkay-v2.gif?raw=true" alt="Hello Coders - I'm Berkay Öztürk" width="60%"/> <br>
+<img src="https://github.com/Berkay3452/Berkay3452/blob/main/images/hello-terminal.gif?raw=true" alt="Hello Coders - I'm Berkay Öztürk" width="60%"/> <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Workspace" width="40%"/><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Berkay3452&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBerkay3452&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false) <br>
