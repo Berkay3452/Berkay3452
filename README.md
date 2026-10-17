@@ -6,7 +6,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/Berkay3452/Berkay3452/blob/main/images/hello-berkay.gif?raw=true" alt="Hello Coders - I'm Berkay Öztürk" width="60%"/> <br>
+<img src="https://github.com/Berkay3452/Berkay3452/blob/main/images/hello-berkay-v2.gif?raw=true" alt="Hello Coders - I'm Berkay Öztürk" width="60%"/> <br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
